@@ -4,8 +4,8 @@ This is the **server-side** repository for **MOvieflix** — a full-stack movie 
 
 ## 🌐 Live Site
 
-Frontend Repo: [MOvieflix Client](https://github.com/Sayed161/Assignment-10-Client-side)
-Live URL: [https://movieflix.vercel.app](https://movieflixserverside.vercel.app/)
+-Frontend Repo: [MOvieflix Client](https://github.com/Sayed161/Assignment-10-Client-side)
+-Live URL: [https://movieflix.vercel.app](https://movieflixserverside.vercel.app/)
 
 [Visit Movieflix Live](https://movieflix-f2433.web.app/)
 ---
